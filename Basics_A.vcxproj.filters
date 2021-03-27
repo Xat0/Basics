@@ -30,5 +30,8 @@
     <ClCompile Include="Challenge_Temperature_CC_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Challenge_BMI_CC_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
