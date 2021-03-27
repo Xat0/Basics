@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main2()
 {
 
 	// Declaring variables
@@ -43,6 +43,7 @@ int main()
 	cout << "You selected " << lastname << " as your lastname." << endl;
 	cout << "Your selected name is " << firstname << " " << lastname << " with the initials of " << initials << endl;
 
+	return 0;
 }
 
 // Take notes.

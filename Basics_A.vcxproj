@@ -141,6 +141,8 @@
   <ItemGroup>
     <ClCompile Include="Basics_A.cpp" />
     <ClCompile Include="Basics_B.cpp" />
+    <ClCompile Include="Basics_C.cpp" />
+    <ClCompile Include="Challenge_Temperature_Codecademy.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

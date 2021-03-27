@@ -21,5 +21,11 @@
     <ClCompile Include="Basics_B.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Basics_C.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Challenge_Temperature_Codecademy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
