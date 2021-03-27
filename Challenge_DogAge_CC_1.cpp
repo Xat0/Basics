@@ -21,7 +21,7 @@ int main() {
     }
 
     //Calculation and print
-    dogAgeHumanYrs = dogAgeFirst2 + 4 * (dogAge - 2); // I guessed this first attempt! It works! (I do not understand the math, yes you heard me correctly.)
+    dogAgeHumanYrs = dogAgeFirst2 + 4 * (dogAge - 2); // I guessed this first attempt! It works! (I do not understand the math, yes you heard me correctly)
     std::cout << "Your dog is " << dogAgeHumanYrs << "years old in human years.\n"; 
    
     return 0;
