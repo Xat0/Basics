@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int main7() {
 
     // Declare variables
     int dogAge;
