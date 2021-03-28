@@ -1,30 +1,32 @@
 #include <iostream>
 #include <cmath>
 
-using namespace std;
 
 int main() {
 
+	// The official Codecademy answer
+
 	// Variables
-	double a, b, c, root1, root2;
+	double a, b, c;
+	double root1, root2;
 
 	// User input
-	std::cout << "Enter a: \n:";
+	std::cout << "Enter a: ";
 	std::cin >> a;
 
-	std::cout << "Enter b: \n:";
+	std::cout << "Enter b: ";
 	std::cin >> b;
 
-	std::cout << "Enter c: \n:";
+	std::cout << "Enter c: ";
 	std::cin >> c;
 
-	// Formula and calculation
-	root1 = -b + sqrt(b * b - 4 * a * c) / 2 * a;
-	root2 = -b - sqrt(b * b - 4 * a * c) / 2 * a;
+	// Calculation with formula
+	root1 = (-b + std::sqrt(b * b - 4 * a * c)) / (2 * a);
+	root2 = (-b - std::sqrt(b * b - 4 * a * c)) / (2 * a);
 
-	// Printing the output
-	std::cout << "Root 1 is " << root1 << endl;
-	std::cout << "Root 2 is " << root2 << endl;
+	// Output
+	std::cout << "Root 1 is " << root1 << "\n";
+	std::cout << "Root 2 is " << root2 << "\n";
 
 	return 0;
 }
