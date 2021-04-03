@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int main14() {
 
     int number = 9;
 
@@ -38,5 +38,7 @@ int main() {
         break;
 
     }
+
+    return 0;
 
 }
