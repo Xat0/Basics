@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {
+int main15() {
 
     double earthWeight;
     double const mercury = 0.38, venus = 0.91,  mars = 0.38, jupiter = 2.34, saturn = 1.06, uranus = 0.92, neptune = 1.19;
