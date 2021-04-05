@@ -8,7 +8,7 @@ using namespace std;
 // StrString is soft-error -- should be named chChar
 // Stolen code (cplusplus.com)
 
-int main() {
+int main16() {
 
 	char strString;
 
