@@ -63,5 +63,8 @@
     <ClCompile Include="17a_Challenge_Tax_Calculator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="18a_Challenge_LeapYear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
