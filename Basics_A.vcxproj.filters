@@ -66,5 +66,8 @@
     <ClCompile Include="18a_Challenge_LeapYear.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="19a_Challenge_RandomOutput.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
